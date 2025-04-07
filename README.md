@@ -1,4 +1,4 @@
-![image](Screenshot 2025-04-07 at 22.03.13.png)
+![image](https://github.com/Ranjith-H7/MovieTitle/blob/main/Screenshot%202025-04-07%20at%2022.03.23.png?raw=true)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
